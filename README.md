@@ -1,6 +1,6 @@
 # python_practice
 
-I'm reading [this book](www.amazon.co.jp/dp/4774197637) since 4/11
+I'm reading [this book](https://www.amazon.co.jp/dp/4774197637) since 4/11
 
 ## Progress bar
 
