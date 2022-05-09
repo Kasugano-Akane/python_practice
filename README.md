@@ -16,4 +16,4 @@ I'm reading [this book](https://www.amazon.co.jp/dp/4774197637) since 4/11
 - [``_                                         0%``] Chapter 9 ユーザー定義関数
 - [``_                                         0%``] Chapter 10 クラス理
 
-
+aa
