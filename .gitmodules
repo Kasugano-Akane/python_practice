@@ -1,0 +1,3 @@
+[submodule "python_practice.wiki"]
+	path = python_practice.wiki
+	url = https://github.com/Kasugano-Akane/python_practice.wiki.git
